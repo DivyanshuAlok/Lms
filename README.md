@@ -1,5 +1,7 @@
 # Lms
 
+(intership BS)
+
 install react-native and run the following commands
 
 1. npm install
